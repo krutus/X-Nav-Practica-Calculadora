@@ -1,0 +1,35 @@
+.calculadora{
+    width: 180px;
+    background-color:#BABABA;
+	margin: 0 auto;
+    padding:5px;
+	border-style: solid double;
+}
+
+.botones #tecla, .botones #result{
+    color: #000000;
+    background-color: #cccccc;
+    margin: 3px;
+	width: 34px;
+}
+
+.botones #borrar{
+    margin:3px;
+    padding:3px;
+	color: #000000;
+    background-color: #cccccc;
+	width: 57px;
+}
+
+.botones #parentesis{
+    margin:0px;
+    padding:2px;
+	color: #000000;
+    background-color: #cccccc;
+	width: 15px;
+}
+
+#pantalla{
+    margin: 3px;
+	width: 130px;
+}s
